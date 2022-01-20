@@ -4,6 +4,8 @@
 
 ### Sections
 
+- [Openapi Swagger postman](./step07_openapi_swagger_postman)
+
 ### Class 22 Videos
 
 - [English YouTube](https://www.youtube.com/watch?v=8onLJFq2p4g&ab_channel=CertifiedUnicornDeveloper)
