@@ -4,7 +4,7 @@
 
 ### Sections
 
-- [Openapi Swagger postman](./step07_openapi_swagger_postman)
+- [OpenApi Swagger postman](./step07_openapi_swagger_postman)
 
 ### Class 22 Videos
 
